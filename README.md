@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashaf Nek Mohammad</h1>
+<h2 align="center">I am currently studying in Class 9</h2> 
 <h3 align="center">I am a web developer from Pakistan</h3>
+
 <img align="right"alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
