@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"  />
+<img align="right" height="300" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"  />
 
 
 <h1 align="center">Assalam o alikum 👋, I'm Kashaf Nek</h1>
