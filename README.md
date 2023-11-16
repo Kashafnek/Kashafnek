@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kashafnek.Kashafnek&"  />
+</div>
+
+###
+
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAwNGE1Yjc2ZjFiYjg0ZjcxNzJjOGY5YmY2NGM3MGE5YWRmNTBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+
 <h1 align="center">Assalam o alikum 👋, I'm Kashaf Nek</h1>
 <h3 align="center">I am currently studying in Class 9 and I am a web developer from Pakistan</h3>
 <img align="right"alt="coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
