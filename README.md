@@ -11,7 +11,8 @@
 <h3 align="center">I am currently studying in Class 9 and I am a web developer from Pakistan</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kashaf-nek-59a5a7285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashaf nek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kashaf-nek-59a5a7285/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 <a href="https://www.instagram.com/codelearning2/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </p>
