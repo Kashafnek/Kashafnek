@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Assalam o alikum 👋, I'm Kashaf Nek</h1>
-<h3 align="center">I am currently studying in Class 10 and I am a web developer from Pakistan</h3>
+<h3 align="center">I am currently studying in Class 10 and I am a SEO Analyst and Blog, Essay, Article Writer from Pakistan</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kashaf-nek-59a5a7285/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
